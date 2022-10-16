@@ -1,1 +1,1 @@
-# PAD
+Zadania na ćwiczenia PAD
